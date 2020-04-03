@@ -1,4 +1,4 @@
-# Microsoft Unithon
+# 2020 Spring Microsoft Unithon
 
 # 活动背景及概况
 从2019年年底开始，因为COVID-19引起的新冠疫情开始肆虐全球。截止到2020年3月底，全球已经有50万名确诊患者。
