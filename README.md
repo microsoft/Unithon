@@ -63,8 +63,10 @@
 
 ## 参考资源
 #### Unithon项目计划书模板
+https://github.com/microsoft/Unithon/blob/master/References/Unithon%20%E9%A1%B9%E7%9B%AE%E8%AE%A1%E5%88%92%E4%B9%A6%E6%A8%A1%E6%9D%BF.md
 
 #### 参考开源工具、数据资源
+https://github.com/microsoft/Unithon/blob/master/References/%E5%BC%80%E6%BA%90%E8%B5%84%E6%96%99%E6%8E%A8%E8%8D%90.md
 
 #### 外部数据使用免责条款
 These are third party publicly available datasets referred here as samples for the event. Microsoft is not responsible for using such datasets and please check their terms of use and comply with their license requirements when building your project. For any data you obtained, you shall be responsible for legitimately use of the data.
