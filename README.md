@@ -41,8 +41,11 @@
 *本次活动的所有环节全部为线上举行
 1. 晋级赛
     - 提交作品：
-       Unithon Project Hack计划书。每位已报名的同学都可以根据3个Challenges单独或以小队的形式提交项目Hack计划书。 
-    - 参赛主体：团队或个人均可发起项目，但每位同学只能参与一个项目。每个团队人数不超过5人；
+       Unithon Project Hack计划书。
+       每位已报名的同学都可以根据3个Challenges单独或以小队的形式提交项目Hack计划书。 
+       计划书以 “[微软 Unithon 项目计划书] 小组名” 为标题提交至邮箱 garagechina@microsoft.com。
+    - 参赛主体：
+        团队或个人均可发起项目，但每位同学只能参与一个项目。每个团队人数不超过5人；
     - 晋级通知：
        我们会在4月16号Unithon Kickoff前确定晋级名单。成功晋级的选手将成为Unithon活动的正式Hacker。
 2. 正式赛
@@ -57,3 +60,13 @@
 
 ## 评审规则
 本次比赛将从 Make Something, Address the Challenge, Customer Focus, Business Value, Feasibility, Presentation等六个维度进行评价。 
+
+## 参考资源
+#### Unithon项目计划书模板
+
+#### 参考开源工具、数据资源
+
+#### 外部数据使用免责条款
+These are third party publicly available datasets referred here as samples for the event. Microsoft is not responsible for using such datasets and please check their terms of use and comply with their license requirements when building your project. For any data you obtained, you shall be responsible for legitimately use of the data.
+
+
