@@ -71,4 +71,5 @@ https://github.com/microsoft/Unithon/blob/master/References/%E5%BC%80%E6%BA%90%E
 #### 外部数据使用免责条款
 These are third party publicly available datasets referred here as samples for the event. Microsoft is not responsible for using such datasets and please check their terms of use and comply with their license requirements when building your project. For any data you obtained, you shall be responsible for legitimately use of the data.
 
-
+## FAQ
+https://github.com/microsoft/Unithon/blob/master/FAQ.md
