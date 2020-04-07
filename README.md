@@ -43,7 +43,7 @@
     - 提交作品：
        Unithon Project Hack计划书。
        每位已报名的同学都可以根据3个Challenges单独或以小队的形式提交项目Hack计划书。 
-       计划书以 “[微软 Unithon 项目计划书] 小组名” 为标题提交至邮箱 garagechina@microsoft.com。
+       计划书以 "Unithon晋级赛计划书_项目名称_(提交人姓名 or 提交团队名称)" 为标题提交至邮箱 garagechina@microsoft.com。
     - 参赛主体：
         团队或个人均可发起项目，但每位同学只能参与一个项目。每个团队人数不超过5人；
     - 晋级通知：
