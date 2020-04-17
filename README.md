@@ -1,5 +1,9 @@
 # 2020 Spring Microsoft Unithon
 
+## Latest Update
+
+晋级团队名单：https://github.com/microsoft/Unithon/blob/master/Annoucements/FinalTeams.md
+
 ## 活动背景及概况
 从2019年年底开始，因为COVID-19引起的新冠疫情开始肆虐全球。截止到2020年3月底，全球已经有50万名确诊患者。
 面对严重的疫情危机，微软大中华区创新车库携手微软亚洲互联网工程院、微软亚洲研究院，共同发起一场面向年轻极客的University Hackathon（Unithon）！
