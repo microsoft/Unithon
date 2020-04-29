@@ -1,4 +1,8 @@
 # Final Awarding Teams
+* 本次比赛不公布具体得分，但每个团队的得分评判区间是根据其最终得分项进行的划分
+  * Excellent - Rank in top 20%
+  * Good - Rank in top 40%
+
 
 |	|岳麓山城戌猿保护协会|	三个为武汉挥旗呐喊的有志青年|	同舟共济队|	byr-er|	DataDigger|
 |:----|:------|:-----|:------|:-----|:-----|
@@ -14,5 +18,4 @@
 |The Evaluation|	Excellent|	Average|	Good|	Good|	Excellent|
 |E2E Experience|	Good|	Excellent|	Good|	Excellent|	Average|
 
-* Excellent - Rank in top 20%
-* Good - Rank in top 30%
+
