@@ -1,3 +1,5 @@
+# Final Awarding Teams
+
 |	|岳麓山城戌猿保护协会|	三个为武汉挥旗呐喊的有志青年|	同舟共济队|	byr-er|	DataDigger|
 |:----|:------|:-----|:------|:-----|:-----|
 |Comments from Judging Committee|	Well organized paper, solid data mining work with good presentation.| 	Informative presentation, and Novel ideas to improve results|	SOTA algorithm, complete app, along with great presentation.|	Appropriate algorithm to solve problem, very practical.	|Great data-analyze work, differentiated on the Economics.|				
