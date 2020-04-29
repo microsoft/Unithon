@@ -13,3 +13,6 @@
 |The implementation|	Excellent|	Excellent|	Average|	Average|	Excellent|
 |The Evaluation|	Excellent|	Average|	Good|	Good|	Excellent|
 |E2E Experience|	Good|	Excellent|	Good|	Excellent|	Average|
+
+* Excellent - Rank in top 20%
+* Good - Rank in top 30%
